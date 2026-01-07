@@ -96,4 +96,11 @@
 
 # Code with a cup of Coffee
 * https://codebrew.vn/
+* https://codebrew.dev/
 * https://brew.dev/
+* https://brewcode.vn/
+
+## Gợi ý nhanh:
+* Blog / portfolio cá nhân: codebrew.dev, codebean.dev
+* Startup / side project: brewcode.io, codelatte.dev
+* Ngắn nhất có thể: cdbrew.dev, cbcode.dev
