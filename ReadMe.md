@@ -10,7 +10,11 @@
 # GitHub Backup
 * https://docs.github.com/en/get-started/archiving-your-github-personal-account-and-public-repositories/requesting-an-archive-of-your-personal-accounts-data
 * https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens
-* https://github.com/settings/tokens/new 
+* https://docs.github.com/en/repositories/archiving-a-github-repository/backing-up-a-repository
+* https://github.com/settings/tokens/new
+
+# Dev.to
+* https://dev.to/jlewis92/turning-git-into-a-large-file-backup-solution-10d1
 
 # Python
 * [Farmore](https://github.com/miztizm/farmore)
